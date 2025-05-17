@@ -34,12 +34,12 @@ cd ar-bat-hunter
 
 2. Install dependencies:
 ```bash
-npm install
+npm install --legacy-peer-deps
 ```
 
 3. Start the development server:
 ```bash
-npm start
+npx expo start
 ```
 
 4. Use Expo Go app to run on your device, or run on an emulator:
